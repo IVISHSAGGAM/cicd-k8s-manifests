@@ -16,6 +16,6 @@ spec:
     spec:
       containers:
       - name: todo
-        image: ivishsaggam/todo:78       
+        image: ivishsaggam/todo:79       
         ports:
         - containerPort: 8000
